@@ -21,9 +21,11 @@ I designed 8 features as input data. Including:
 
 # Log
 2020.01.10
+
 I have collected more than 100 games datas and the accuracy of the model is nearly 80%. However, the accuracy of rank prediction is only 50%.
 
 2020.01.17
+
 I modified the features of the datas. There are 14 features now.
 1. Hero's tier;
 2. Have a derivative (e.g. 1/1 tiger) when coin 3 or not;
