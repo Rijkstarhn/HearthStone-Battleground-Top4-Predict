@@ -22,7 +22,7 @@ I designed 8 features as input data. Including:
 # Log
 2020.01.10
 
-I have collected more than 100 games datas and the accuracy of the model is nearly 80%. However, the accuracy of rank prediction is only 50%.
+I have collected more than 100 games datas and the accuracy of the model is around 80%. However, the accuracy of rank prediction is only 50%.
 
 2020.01.17
 
