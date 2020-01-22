@@ -43,3 +43,6 @@ I modified the features of the datas. There are 14 features now.
 13. Number of loses until coin 10;
 14. Number of golden cards until coin 10.
 
+2020.01.22
+
+I collected 20 new datas as a small cross validation (cv) set. However, the accuracy of the model was just 55%. The rank prediction accuracy wass just 5%. I had about 120 datas in all. I splited the datas into two halves as training set and cv set. The accuracy of the model was nearly 65% and the rank prediction accuracy was nearly 27%. Seems that the elder model with 8 features was a typical high variance model and I ran into overfitting problem. Maybe I should try the new 14 features model.
